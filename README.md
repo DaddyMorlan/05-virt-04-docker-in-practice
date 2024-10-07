@@ -7,3 +7,6 @@
 ![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/1.4.2.png)
 # Задание 2
 {}(https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/vulnerabilities(task2).csv)
+# Задание 3
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/3.3.1.png)
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/3.3.2.png)
