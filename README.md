@@ -17,3 +17,7 @@
 ![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/4.6.2.png)
 (https://github.com/DaddyMorlan/shvirtd-example-python)
 ![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/4.6.3.png)
+# Задание 5
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/5.1.png)
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/5.2.png)
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/5.3.png)
