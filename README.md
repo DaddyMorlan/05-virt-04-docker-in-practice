@@ -21,3 +21,16 @@
 ![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/5.1.png)
 ![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/5.2.png)
 ![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/5.3.png)
+# Задание 6
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/6.1.png)
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/6.2.png)
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/6.3.png)
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/6.4.png)
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/6.5.png)
+# Задание 6.1
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/6.1.1.png)
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/6.1.2.png)
+# Задание 6.2
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/6.2.2.png)
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/6.2.1.png)
+# Задание 7
