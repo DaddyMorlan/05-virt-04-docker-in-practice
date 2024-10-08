@@ -36,5 +36,9 @@
 # Задание 7
 (Распаковал имедж в рутфс директорию)
 ![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/7.1.png)
-![Пробовал настроить сеть по гайдам из инета, но ничего не вышло](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/7.2.png)
-![До приложения дошел, но запутался в сети, бриджах, а это еще на 2 машины надо, так и не смог разобраться](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/7.3.png)
+
+(Пробовал настроить сеть по гайдам из инета, но ничего не вышло)
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/7.2.png)
+
+(До приложения дошел, но запутался в сети, бриджах, а это еще на 2 машины надо, так и не смог разобраться)
+![](https://github.com/DaddyMorlan/05-virt-04-docker-in-practice/blob/main/docker/7.3.png)
